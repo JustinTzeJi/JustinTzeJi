@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Justin Koay</h1>
-<h3 align="center">A biotech graduate with a passion in data analytics and machine learning</h3>
-
-- 🌱 I’m currently learning **react and more python**
 
 - 👨‍💻 All of my projects are available at [https://justintzeji.github.io/work/](https://justintzeji.github.io/work/)
 
